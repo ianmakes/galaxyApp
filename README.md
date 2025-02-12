@@ -1,4 +1,4 @@
-**Solar System Orbit Simulator**
+**Pet Project: Solar System Orbit Simulator**
 
 Watch how the planets orbit around the Sun.
 
